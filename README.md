@@ -11,7 +11,10 @@
 - Taking CS50x.
 - Fairly new to programming, been studying since september/2020.
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepirani&theme=buefy&layout=compact" />
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
