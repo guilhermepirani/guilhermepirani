@@ -7,7 +7,7 @@
 ![From Santos, Brazil](https://img.shields.io/badge/-From%20Santos,%20São%20Paulo%20--%20Brazil-333333?style=flat&logo=brazil)
 
 #### CS Home Student
-*Currently looking for opportunities to learn!*
+*Looking for opportunities to learn!*
 - Fairly new to programming, been studying since september/2020.
 - Currently further improving my Python skills!
 
