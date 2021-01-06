@@ -8,10 +8,8 @@
 
 #### CS Home Student
 *Currently looking for opportunities to learn!*
-- Taking CS50x.
 - Fairly new to programming, been studying since september/2020.
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepirani&theme=buefy&layout=compact" />
+- Currently further improving my Python skills!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
