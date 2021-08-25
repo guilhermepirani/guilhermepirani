@@ -8,8 +8,6 @@
 
 #### CS Home Student
 *Looking for opportunities to learn!*
-- Fairly new to programming, been studying since september/2020.
-- Currently further improving my Python skills!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -25,7 +23,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   
-Check the repositories section to see my efforts! Hope, you will enjoy it! <br>
+Check the repositories section to see my efforts! Hope you will enjoy it! <br>
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
